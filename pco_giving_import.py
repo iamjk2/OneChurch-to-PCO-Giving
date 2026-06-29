@@ -26,7 +26,7 @@ Usage:
       --client-id YOUR_CLIENT_ID --secret YOUR_SECRET --leave-batch-open
 
 Get your Client ID + Secret at:
-  https://api.planningcenter.com/oauth/applications  (Personal Access Tokens)
+  https://api.planningcenteronline.com/personal_access_tokens  (Personal Access Tokens)
 """
 
 import argparse
